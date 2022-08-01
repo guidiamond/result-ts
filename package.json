@@ -1,0 +1,15 @@
+{
+  "name": "result-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guidiamond/result-ts",
+  "author": "guidiamond",
+  "license": "MIT",
+  "devDependencies": {
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "build": "tsc --build ."
+  }
+}
